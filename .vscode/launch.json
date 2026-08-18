@@ -2,7 +2,7 @@
   "configurations": [
     {
       "name": "Launch Python",
-      "type": "debugpy",
+      "type": "node",
       "request": "launch",
       "program": "src/hello.py",
       "console": "integratedTerminal"
